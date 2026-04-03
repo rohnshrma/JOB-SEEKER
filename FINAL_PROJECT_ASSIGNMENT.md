@@ -1,9 +1,9 @@
-# Job Portal System using MERN Stack (MongoDB, Express, React, Node)
+# <span style="color:#0f172a; background:#e0f2fe; padding:6px 12px; border-radius:8px;">Job Portal System using MERN Stack (MongoDB, Express, React, Node)</span>
 
-## Final MERN Stack Capstone Project
+## <span style="color:#7c2d12; background:#ffedd5; padding:4px 10px; border-radius:8px;">Final MERN Stack Capstone Project</span>
 
-**Institute Name:** WebiGeeks  
-**Tagline:** Build Like a Real Developer
+<p><strong>Institute Name:</strong> WebiGeeks<br>
+<strong>Tagline:</strong> <span style="color:#1d4ed8;">Build Like a Real Developer</span></p>
 
 ---
 
@@ -17,6 +17,8 @@ The **Job Portal System using MERN Stack** is a complete full-stack web applicat
 - **Admins** can monitor the platform, manage users, manage jobs, and view platform-level statistics
 
 This project is designed as the **final capstone assignment** for MERN students who have already built projects such as a Food Ordering App and an E-commerce App. It is intended to bring together everything learned in the course into one strong, portfolio-ready system.
+
+<p style="background:#f8fafc; border-left:5px solid #2563eb; padding:12px 14px; border-radius:6px;"><strong>Capstone Purpose:</strong> This assignment is intended to simulate a real industry project and prepare students for internship-level and entry-level full stack development work.</p>
 
 ### Why Is a Job Portal Important in the Real World?
 A job portal is one of the most practical and professional full-stack projects because it naturally includes many real software engineering concepts:
@@ -569,7 +571,7 @@ Students will be evaluated on:
 
 ### Final Submission Deadline
 
-- The complete project must be submitted within **15 days**
+- The complete project must be submitted within <span style="background:#fef3c7; color:#92400e; padding:2px 8px; border-radius:6px;"><strong>15 days</strong></span>
 
 ---
 
@@ -600,11 +602,13 @@ Students will be evaluated on:
 
 Students will be provided with limited guided support during the capstone period.
 
-- Only **3 doubt sessions** will be provided for this assignment
-- These 3 doubt sessions must be used within the **15-day project timeline**
+- Only <span style="background:#dbeafe; color:#1d4ed8; padding:2px 8px; border-radius:6px;"><strong>3 doubt sessions</strong></span> will be provided for this assignment
+- These 3 doubt sessions must be used within the <span style="background:#e0f2fe; color:#0369a1; padding:2px 8px; border-radius:6px;"><strong>15-day project timeline</strong></span>
 - Students should prepare their questions properly before each session
 - Doubt sessions are meant for guidance and clarification, not for full project building support
 - Students are expected to work independently and use the sessions wisely
+
+<p style="background:#eff6ff; border-left:5px solid #2563eb; padding:12px 14px; border-radius:6px;"><strong>Support Limit Notice:</strong> Students are expected to plan their work carefully and use the available doubt sessions only for important blockers, doubts, or conceptual clarification.</p>
 
 ---
 
@@ -614,25 +618,27 @@ Students will be provided with limited guided support during the capstone period
 
 Students must follow the following academic honesty rules strictly:
 
-- AI must **not** be used for backend logic
-- AI must **not** be used for authentication logic
-- AI must **not** be used for database design logic
-- AI must **not** be used for API logic
-- AI must **not** be used for business logic or core project decision-making
-- AI may be used only for **HTML structure assistance**
-- AI may be used only for **CSS styling assistance**
-- AI may be used only for **dummy data generation**
+- AI must <span style="background:#fee2e2; color:#b91c1c; padding:2px 8px; border-radius:6px;"><strong>not</strong></span> be used for backend logic
+- AI must <span style="background:#fee2e2; color:#b91c1c; padding:2px 8px; border-radius:6px;"><strong>not</strong></span> be used for authentication logic
+- AI must <span style="background:#fee2e2; color:#b91c1c; padding:2px 8px; border-radius:6px;"><strong>not</strong></span> be used for database design logic
+- AI must <span style="background:#fee2e2; color:#b91c1c; padding:2px 8px; border-radius:6px;"><strong>not</strong></span> be used for API logic
+- AI must <span style="background:#fee2e2; color:#b91c1c; padding:2px 8px; border-radius:6px;"><strong>not</strong></span> be used for business logic or core project decision-making
+- AI may be used only for <span style="background:#dcfce7; color:#166534; padding:2px 8px; border-radius:6px;"><strong>HTML structure assistance</strong></span>
+- AI may be used only for <span style="background:#dcfce7; color:#166534; padding:2px 8px; border-radius:6px;"><strong>CSS styling assistance</strong></span>
+- AI may be used only for <span style="background:#dcfce7; color:#166534; padding:2px 8px; border-radius:6px;"><strong>dummy data generation</strong></span>
 
 Every student must fully understand, write, and explain the project logic independently.
 
+<p style="background:#fff1f2; border-left:5px solid #dc2626; padding:12px 14px; border-radius:6px;"><strong>Academic Integrity Notice:</strong> Any copied or AI-generated logic that the student cannot properly explain may lead to rejection of the submission.</p>
+
 ### Submission Rule
 
-- This capstone project must be completed and submitted within **15 days**
+- This capstone project must be completed and submitted within <span style="background:#fef3c7; color:#92400e; padding:2px 8px; border-radius:6px;"><strong>15 days</strong></span>
 - Late submissions may affect evaluation and certification status
 
 ### Certification Rule
 
-- **Course certification depends on the successful completion and submission of this final capstone project**
+- <span style="background:#fee2e2; color:#991b1b; padding:2px 8px; border-radius:6px;"><strong>Course certification depends on the successful completion and submission of this final capstone project</strong></span>
 - Students may be asked to explain their code, logic, architecture, and implementation decisions during review
 - If a student cannot explain the submitted logic, the submission may be rejected for certification purposes
 
