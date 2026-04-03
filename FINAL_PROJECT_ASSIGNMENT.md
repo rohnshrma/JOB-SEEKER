@@ -596,7 +596,19 @@ Students will be evaluated on:
 
 ---
 
-## 15. Important Policy and Certification Rules
+## 15. Doubt Sessions
+
+Students will be provided with limited guided support during the capstone period.
+
+- Only **3 doubt sessions** will be provided for this assignment
+- These 3 doubt sessions must be used within the **15-day project timeline**
+- Students should prepare their questions properly before each session
+- Doubt sessions are meant for guidance and clarification, not for full project building support
+- Students are expected to work independently and use the sessions wisely
+
+---
+
+## 16. Important Policy and Certification Rules
 
 ### AI Usage Policy
 
