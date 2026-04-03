@@ -596,3 +596,20 @@ This is not just an academic task. It is your opportunity to build like a real d
 
 **WebiGeeks**  
 **Build Like a Real Developer**
+
+---
+
+## Important Submission Policy
+
+- This project must be submitted within **15 days**
+- Students must **not use AI for application logic, backend logic, authentication logic, database design logic, API logic, or core project decision-making**
+- AI may be used only for:
+- HTML structure assistance
+- CSS styling assistance
+- Dummy data generation
+- Students must fully understand and explain the code they submit
+- Plagiarized, copied, or AI-generated logic-based submissions may be rejected
+- **Course certification depends on the successful completion and submission of this final project**
+
+### Final Instruction
+Treat this project as your practical exam, portfolio piece, and industry preparation assignment. Your certification will be based on your ability to build, explain, and submit this project properly within the given timeline.
